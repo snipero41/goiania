@@ -1,0 +1,2 @@
+# The track zip is far over GitHub's 100 MB file limit: it goes in the Releases page, never in the repository.
+*.zip
